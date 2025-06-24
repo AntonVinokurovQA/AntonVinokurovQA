@@ -1,11 +1,8 @@
-# Welcome to My Full Stack QA Engineer Profile!
+# Welcome to my Full Stack QA Engineer Profile!
 
-I'm a Full Stack QA Engineer, passionate about delivering high-quality and reliable software. 
-This repository is my portfolio — a snapshot of my skills, projects, and experience in software testing and quality assurance.
-
-## About Me
-
+I'm a Full Stack QA Engineer, passionate about delivering high-quality and reliable software.
 Driven by a strong focus on quality, I specialize in testing across the full stack — from UI to APIs and databases.
+This repository is my portfolio — a snapshot of my skills, projects, and experience in software testing and quality assurance.
 
 ## Key Skills
 
