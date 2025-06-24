@@ -1,21 +1,22 @@
 # Welcome to My Full Stack QA Engineer Profile!
 
-Hello everyone! 
-I'm thrilled to share my journey as a Full Stack QA Engineer with you. This repository acts as a special space to offer insights into my skills, projects, and experiences in the realm of quality assurance and software testing.
+I'm a Full Stack QA Engineer, passionate about delivering high-quality and reliable software. 
+This repository is my portfolio — a snapshot of my skills, projects, and experience in software testing and quality assurance.
 
 ## About Me
 
-I'm truly passionate about ensuring the quality and reliability of software products. 
+Driven by a strong focus on quality, I specialize in testing across the full stack — from UI to APIs and databases.
 
 ## Key Skills
 
-- **Test Automation UI:** Proficient in creating automated test scripts using Java, Selenium, Selenide, TestNG and JUnit.
+- **Test Automation UI:** Java, Selenium, Selenide, Playwright, TestNG, JUnit
 
-- **API Testing:** Experience in testing APIs using tools like Postman and writing API tests with Java And RestAssured.
+- **API Testing:** Postman, SOAPUI, RestAssured
 
-- **Database Testing:** Understanding databases and writing SQL queries help me validate data integrity and consistency within applications.
+- **Database Testing:** SQL for data validation and consistency checks
 
 ## Projects
+
 
 ### UI Automated Tests Project
 
@@ -29,10 +30,10 @@ Add description
 
 Add description
 
-## Get in Touch
+## 📬 Get in Touch
 
-LinkedIn
-GitHub
-Email
-Phone
-Telegram blog
+- 📧 Email: [anton.vinokurov.qa@gmail.com](mailto:anton.vinokurov.qa@gmail.com)
+- 📞 Phone: +48 508 654 467
+- [LinkedIn](https://www.linkedin.com/in/anton-vinokurov/)
+- [GitHub](https://github.com/AntonVinokurovQA)
+- [Telegram](https://t.me/anthonyvinokurov)
