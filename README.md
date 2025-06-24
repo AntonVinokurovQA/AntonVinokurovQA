@@ -4,7 +4,14 @@ I'm a Full Stack QA Engineer, passionate about delivering high-quality and relia
 Driven by a strong focus on quality, I specialize in testing across the full stack — from UI to APIs and databases.
 This repository is my portfolio — a snapshot of my skills, projects, and experience in software testing and quality assurance.
 
-## Key Skills
+## 📑 Navigation
+- [🔧 Key Skills](#-key-skills)
+- [🚀 Projects](#-projects)
+- [💼 Work Experience](#-work-experience)
+- [📬 Get in Touch](#-get-in-touch)
+
+
+## 🔧 Key Skills 
 
 - **Test Automation UI:** Java, Selenium, Selenide, Playwright, TestNG, JUnit
 
@@ -12,7 +19,7 @@ This repository is my portfolio — a snapshot of my skills, projects, and exper
 
 - **Database Testing:** SQL for data validation and consistency checks
 
-## Projects
+## 🚀 Projects
 
 
 ### UI Automated Tests Project
@@ -26,6 +33,8 @@ Add description
 ### Postman collection for API testing
 
 Add description
+
+## 💼 Work Experience
 
 ## 📬 Get in Touch
 
